@@ -1,0 +1,11 @@
+.title{
+    font-style: italic;
+    text-decoration: underline;
+    text-transform:capitalize;
+    
+
+}
+.red{
+    font-size:80px;
+    color: rgb(20, 61, 49);
+}
